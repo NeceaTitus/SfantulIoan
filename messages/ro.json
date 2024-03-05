@@ -1,0 +1,251 @@
+{
+  "COMMON":
+  {
+    "DONATE": "Donează",
+    "DONATE_NOW": "Donează Acum",
+    "ASSOCIATION": "Bucurie în Dar",
+    "ASSOCIATION_FULL": "Asociația Bucurie în Dar",
+    "NECESSARY_AMOUNT": "Suma necesară"
+  },
+  
+  "HOME_HERO":
+  {
+    "MOTTO_FIRST_PART": "Din această lume plecăm doar cu",
+    "MOTTO_SECOND_PART": "faptele noastre",
+    "DESCRIPTION": "Suntem sprijin cu tot ce ne stă în putere, pentru cei care nu mai au pe cine să se sprijine. Misiunea noastră este să aducem bucurie acolo unde nu mai este, în inimile cât mai multor oameni, mari și mici, tineri și bătrâni, împreună cu voi."
+  },
+  
+  "HOME_ACTIVITY": {
+    "TITLE": "Activitatea noastră",
+    "DESCRIPTION": "Acesta este ajutorul oferit de voi prin noi, de la înființarea Asociației Bucurie în Dar. Suntem oameni care trăiesc și pentru alții, oameni cu rațiune, cu sentimente și cu dorințe, iar dorința noastră cea mare este să nu trăim doar pentru noi înșine.",
+    "ACTIVITIES": {
+      "FIRST": {
+        "TITLE": "Ceva1",
+        "DESCRIPTION": "Descrierea primei statistici se va scrie aici."
+      },
+      "SECOND": {
+        "TITLE": "Ceva2",
+        "DESCRIPTION": "Descrierea celei de-a doua statistici se va scrie aici."
+      },
+      "THIRD": {
+        "TITLE": "Ceva3",
+        "DESCRIPTION": "Descrierea celei de-a treia statistici se va scrie aici."
+      },
+      "FOURTH": {
+        "TITLE": "Ceva4",
+        "DESCRIPTION": "Descrierea celei de-a patra statistici se va scrie aici."
+      }
+    }
+  },
+  
+  "SAINT_JOHN": {
+    "TITLE": "Centrul Sf. Ioan Cel Milostiv",
+    "DESCRIPTION": "Împreună salvăm vieți, schimbăm destine, vindecăm suflete. Fiecare dintre noi am trecut cel puțin o dată în viață printr-o perioadă neagră din care nu mai știam cum să ieșim sau când se va termina. I-am văzut pe cei din familie, pe prieteni, pe oamenii dragi din viața nostră suferind și nu aveam cum să-i ajutăm. Cât de mult contează ajutorul oferit cu empatie, cu drag și dragoste. În acele momente ai nevoie de un sprijin și cred cu tărie că echipa Centrului Sf. Ioan Cel Milostiv se va strădui să aducă alinare, vindecare și să fie sprijin celor care ne vor spune, ajutați-ne.",
+    "IMAGE_ALT": "Icoana Sfântul Ioan cel Milostiv"
+  },
+  
+  "HOME_POTENTIAL": {
+    "TITLE": "Potențialul copiilor",
+    "DESCRIPTION": "Donația ta pentru cauza noastră creează un viitor mai strălucitor, oferind educație, sănătate și hrănire esențiale copiilor nevoiași. Fiecare contribuție aduce speranță și deschide uși către un univers de posibilități. Să construim împreună un viitor mai strălucitor. Donează acum și fă o diferență! Sprijinul tău este vital în misiunea noastră de a debloca potențialul unui copil. Cu fiecare donație, putem oferi mai mult decât nevoile de bază; oferim o bază pentru învățare și creștere pe tot parcursul vieții. Programele noastre se concentrează pe educație, îngrijire medicală și împuternicirea comunităților pentru a-și ridica cei mai tineri membri.",
+    "IMAGE_ALT": "Portretul unui copil"
+  },
+
+  "HOME_HELP": {
+    "BADGE": "Ajută altfel",
+    "TITLE": "Alte moduri de a ajuta",
+    "DESCRIPTION": "Există multe moduri de a ajuta, nu doar prin donații. Fiecare gest contează. Iată câteva din modalitățile prin care poți contribui.",
+    "FIRST": {
+      "TITLE": "Bunuri materiale",
+      "DESCRIPTION": "Donează haine, jucării, cărți, mobilă, obiecte de igiena sau alte bunuri materiale pe care nu le mai folosești."
+    },
+    "SECOND": {
+      "TITLE": "Formulare",
+      "DESCRIPTION": "Completează formularul 220 pentru a ne redirecționa din impozitul pe venit sau contractul de sponsorizare."
+    },
+    "THIRD": {
+      "TITLE": "Voluntariat",
+      "DESCRIPTION": "Fii voluntar și implică-te în activitățile noastre. Fiecare ajutor contează."
+    }
+  },
+  
+  "HOME_BLOG": {
+    "TITLE": "Blog",
+    "DESCRIPTION": ""
+  },
+
+  "OUR_TEAM": {
+    "TITLE": "Echipa noastră",
+    "DESCRIPTION": "Fă cunoștință cu echipa noastră. Suntem oameni pasionați de ceea ce facem și ne dorim să aducem un impact pozitiv în lumea în care trăim.",
+    "TEAM_MEMBERS": {
+      "FIRST": { "NAME": "Alexandru Ionescu", "ROLE": "Președinte" },
+      "SECOND": { "NAME": "Andreea Constantinescu", "ROLE": "VP & Coordonator marketing" },
+      "THIRD": { "NAME": "Cioltan Marius", "ROLE": "VP & Coordonator logistică" },
+      "FOURTH": { "NAME": "Teodor Nemțeanu", "ROLE": "Coordonator principal situații de urgență" },
+      "FIFTH": { "NAME": "Alina Cernea", "ROLE": "Asistent & coordonator principal" },
+      "SIXTH": { "NAME": "Cristian Simionescu", "ROLE": "Specialist comunicare & relații publice" },
+      "SEVENTH": { "NAME": "Evelin", "ROLE": "Asistent social principal" },
+      "EIGHTH": { "NAME": "Ovidiu Horațiu", "ROLE": "Doctor arhitect" }
+    }
+  },
+
+  "FAQ": {
+    "TITLE": "Răspunsuri",
+    "QUESTIONS": {
+      "FIRST": {
+        "QUESTION": "Prima întrebare?",
+        "ANSWER": "Primul răspuns."
+      },
+      "SECOND": {
+        "QUESTION": "A doua întrebare?",
+        "ANSWER": "Al doilea răspuns."
+      },
+      "THIRD": {
+        "QUESTION": "A treia întrebare?",
+        "ANSWER": "Al treilea răspuns."
+      },
+      "FOURTH": {
+        "QUESTION": "A patra întrebare?",
+        "ANSWER": "Al patrulea răspuns."
+      }
+    }
+  },
+
+  "PROJECTS": {
+    "TITLE": "Proiecte",
+    "DESCRIPTION": "Descoperă câteva din proiectele noastre și află cum poți să-i ajuți pe cei care au nevoie de tine.",
+    "TABLE_OF_JOY": {
+      "TITLE": "Masa bucuriei",
+      "DESCRIPTION": "Ați fost în situația de a nu avea ce să mâncați, cel puțin o zi? Prin acest program, Masa bucuriei, oferim mâncare la mii de persoane. Oferă și tu o porție de mâncare unui om sărman și vei primi în schimb cel mai onest MULȚUMESC din viața ta. Pe cine ajutăm? Familii cu mulți copii, persoane fără venit, femei văduve, bolnave și care își cresc singure copiii, persoane nedeplasabile, adulți sau copii, copii asistați social, bătrâni singuri, oameni ai străzii. Ei postesc și când nu este post."
+    },
+    "LOVE_AND_MEDICINE": {
+      "TITLE": "Dragoste & medicamente",
+      "DESCRIPTION": "Vrei sa fim prieteni? Acești copii se hrănesc cu dragostea noastră și trăiesc cu medicamente. Ce nevoi au acești copii? Unii tratament, alții proteze, alții cărucior mobil sau operație. Ajută-i să nu mai aibe nevoie de tratament și să rămână doar cu dragostea și bucuria că s-au vindecat cu ajutorul oferit de tine. NOTĂ - banii obținuți din donații vor fi redirecționați în contul spitalului sau clinicii, și postarea facturilor/costurilor aferente."
+    },
+    "SCHOOL_OF_JOY": {
+      "TITLE": "Şcoala bucuriei",
+      "DESCRIPTION": "Copiii ajutați azi sunt adulții educați de maine. Educația este fundamentală. Iar prin susținerea și accesul acestor copii la educație, ajutați și comunitatea, dar si aportul pe care ei îl vor aduce la rândul lor comunității și acestei țări. Prin ajutorul dumneavoastră acești copii vor descoperi lumea, o lume diferită de cea în care trăiesc acum. Prin ei te vei bucura și tu! Deasemenea, cu toții știm că în România fenomenul bullying-ului a luat amploare, iar foarte mulți copii sunt victime. Noi credem că este mai ușor să previi decât să combați un fenomen și că împreună îi putem ajuta pe cei mici să aibă relații sănătoase cu semenii lor. Vă împărtășim proiectul de atelier „Școala bucuriei”, care pornește de la o poveste – „Inima ariciului. O aventură în căutarea prietenilor adevărați” (autor: Mariana Buric).Atelierul conține jocuri și activități care pot fi realizate cu copiii atât de cadre didactice, în grădinițe și în școli, dar și de părinți, acasă. Ne-am bucura dacă printre dumneavoastră sunt cadre didactice și părinți care vor să ni se alăture în acest proiect.Haideți să-i ajutăm pe cei mici să meargă cu drag la grădiniță sau la școală și să se bucure de prietenia semenilor lor. Pentru detalii despre proiect, vă rugăm să ne contactați. Vă mulțumim!"
+    },
+    "CAMPS_TRIPS_WORKSHOPS": {
+      "TITLE": "Tabere, excursii, ateliere",
+      "DESCRIPTION": "Avem o țară tare frumoasă și ar fi minunat ca acești copii să își cunoască propria țară și să se bucure de frumusețile ei."
+    },
+    "ADOPT_A_FAMILY": {
+      "TITLE": "Adoptă o familie",
+      "DESCRIPTION": "Ajută pe cel puțin unul dintre prietenii noștri mici și mari, tineri sau bătrâni. Oameni dragi, aveți posibilitatea să adoptați o familie de care să aveți grijă, ajutându-i în nevoile și neputințele lor. Orice ajutor, cât de puțin este binevenit. Sunați-ne pentru a vă oferi datele lor de contact. Asigură ce poți din nevoile unei familii defavorizate: un medicament sau o cutie de lapte praf, alimente de primă necesitate, un caiet sau un creion pentru un elev, sunt lucruri pe care, din păcate, unii nu și le pot permite în mod constant. Noi îți facem cunoscute cazurile, voi alegeți familia pe care doriți să o vizitați și să o ajutați pe termen mediu sau lung."
+    },
+    "HELP_A_COMMUNITY": {
+      "TITLE": "Ajută o comunitate",
+      "DESCRIPTION": "Suntem implicați în ajutorarea multor comunități, prieteni ai noștri spunem acum cu bucurie, sunt sute de familii, oameni minunați și mulți copii frumoși. Orice lucru bun aveți de oferit, cum ar fi alimente, medicamente (siropuri impotriva tusei, antifebrile, pamperși, etc), încălțăminte, îmbrăcăminte, produse de igienă și igienă intimă, jucării, electrocasnice, mobilier și alte bunuri, vă așteptăm în fiecare zi la cele două puncte de colectă situate la următoarele adrese: Supermarket La Cocoș, în interiorul magazinului. Adresa Sos. Vitan Bârzești 7A. Program luni - sâmbătă 07.30 – 20.30, duminică 07.30 – 18-30. Sau Str. Poteraș nr. 14, în intervalul orar 09.00 – 16.00. Pentru cantități mai mari de produse și bunuri, vă rugăm să ne contactați la telefon."
+    }
+  },
+  
+  "PROJECTS_MORE": {
+    "DONATE": "Donează",
+    "CARD_OPTION": "Card / Google Pay / Apple Pay",
+    "BANK_TRANSFER_OPTION": "Transfer bancar",
+    "DESIRED_AMOUNT": "Suma dorită",
+    "CONTINUE": "Continuare",
+    "DONATE_FOR": "Donează pentru"
+  },
+
+  "SHARE": {
+    "MAIN": "Ajută distribuind!"
+  },
+  
+  "ABOUT": {
+    "TITLE": "Despre noi",
+    "DESCRIPTION": "Cine suntem, ce facem și de ce să ajutăm.",
+    "WHO_ARE_WE": {
+      "TITLE": "Cine suntem",
+      "DESCRIPTION": "Suntem voluntari care, după câțiva ani de activități umanitare, am înființat Asociația Bucurie în Dar, pentru a ajuta la o scară mai mare. Suntem oameni care trăiesc și pentru alții, nu doar pentru noi înșine. Cu ajutorul Bunului Dumnezeu și cu sprijinul vostru, într-o împreună lucrare, vrem să aducem bucurie în inimile multor oameni, mari și mici, tineri și bătrâni. Avem libertatea de a alege ce facem în această viață, iar noi am ales să ajutăm și o facem cu toata bucuria și cu toată dragostea. Dăruiește și tu bucurie, împreună cu noi."
+    },
+    "WHAT_WE_DO": {
+      "TITLE": "Ce facem",
+      "DESCRIPTION": "Ascultăm poveștile de viață ale celor care sunt mai puțin importanți pentru o parte a societății. Suntem sprijin, cu tot ce ne stă în putere, pentru cei care nu mai au pe cine să se sprijine. Îi ajutăm pe cei care strigă: ajutați-ne! Alege să ajuți împreună cu noi! Este atât de simplu. Doar alege."
+    },
+    "WHY_WE_HELP": {
+      "TITLE": "De ce să ajutăm",
+      "DESCRIPTION": "Pentru că avem puterea să alegem ce facem cu timpul nostru, cu viața noastră. Moștenirea pe care o lăsăm copiilor noștri sunt faptele noastre, pe care le transmit și ei mai departe. Oameni buni, din această viață, plecăm doar cu faptele noastre. Voi, cei care veniți și ajutați, sacrificați din timpul vostru, din confortul și banii voștri unor oameni pe care nu-i cunoașteți. Ați ales să dăruiți din viața voastră aproapelui vostru. Aceasta este darul și el vine din iubire."
+    }
+  },
+
+  "GALLERY": {
+    "TITLE": "Munca noastră",
+    "DESCRIPTION": "Galerie foto şi video cu activităţile noastre.",
+    "VIDEOS": {
+      "1": { "DESCRIPTION": "Video - Reportaj, Universul Credinței" },
+      "2": { "DESCRIPTION": "Video - Fondator Bucurie în Dar" }
+    },
+    "PHOTOS": {
+      "1": { "DESCRIPTION": "Bunul Dumnezeu lucrează prin oameni, prin voi toți care ați contribuit la fericirea acestor copii." },
+      "2": { "DESCRIPTION": "Mulțumim doamnei Monica și Asociației Amprenta că ne-au oferit increderea și ajutorul lor și uite așa am ajuns să sprijinim cel puțin 300 de copii." },
+      "3": { "DESCRIPTION": "Ne-am găndit să le facem o surpriză copiilor din Com. Budești, oferindu-le 30 de hanorace pe care să le folosească la antrenament. Dar surpriza lor a fost cu mult mai mare decăt a noastră. Le-am surprins pe fete pregatindu-ne mărțișoare." },
+      "4": { "DESCRIPTION": "Vă anunțăm că am reușit și în acest an, cu ajutorul Bunului Dumnezeu și al vostru să trimitem la mare 16 copii! Mulțumim tare, tare mult gazdelor de la CASA DEXTER, Vali și Cami, pentru că au avut grijă de copii!" },
+      "5": { "DESCRIPTION": "Mulțumim Asociației Medicover pentru produsele de igienă donate!" },
+      "6": { "DESCRIPTION": "Noi vă mulțumim pentru implicare și grijă!" },
+      "7": { "DESCRIPTION": "In ultimii ani, împreună cu voi, am venit în ajutorul multor persoane, familii, copii, oameni ai străzii, nu cred ca am omis pe cineva, am ajutat fără rezerve, necondiționat, și continuam să o facem."},
+      "8": { "DESCRIPTION": "Copiii ajutați azi sunt adulții educați de maine. Educația este fundamentală. Iar prin susținerea și accesul acestor copii la educație, ajutați și comunitatea, dar si aportul pe care ei îl vor aduce la rândul lor comunității și acestei țări."},
+      "9": { "DESCRIPTION": "Vă mulțumim pentru implicare în proiectul MASA BUCURIEI 🌺 Este atât de ușor să-i ajutații prin noi!" },
+      "10": { "DESCRIPTION": "Azi am fost în satul Podul Pitarului. Jud. Călărași. Îi mulțumim lui Gina pentru implicare și grija pentru familiile din comunitate!"},
+      "11": { "DESCRIPTION": "Magazinul Supermarket La Cocoș 🐓,  ne-au oferit încă un spațiu de colectă 🎉. Acesta este destinat doar pentru donațiile care constau in îmbrăcăminte, încălțăminte, jucării, produse de igienă."},
+      "12": { "DESCRIPTION": "Să nu îi uitam pe cei bolnavi și singuri și, copii internați din spitale." },
+      "13": { "DESCRIPTION": "Să vă bucurați de incălțăminte copii și mulțumim donatorilor" },
+      "14": { "DESCRIPTION": "...❤️" }
+    }
+  },
+
+  "BLOG": {
+    "TITLE": "Articolele noastre",
+    "DESCRIPTION": "Articolele noastre blog",
+    "READ_ARTICLE": "Citește articolul",
+    "ARTICLES": {
+      "1": {
+        "TITLE": "Importanța Donațiilor de Caritate",
+        "DESCRIPTION": "Într-o lume plină de nesiguranță și provocări, actele de caritate strălucesc ca faruri de speranță și umanitate. Caritatea nu este doar un gest de compasiune; este o punte care leagă sufletele, oferindu-le celor mai puțin norocoși o șansă la o viață mai bună. Donațiile de caritate sunt vitale pentru a susține această cauză nobilă, și iată de ce. Impactul Direct asupra Vieților Oamenilor Prin donațiile făcute către organizațiile de caritate, contribuim direct la îmbunătățirea vieții celor aflați în nevoie. Fie că este vorba de hrană, adăpost, educație sau acces la servicii medicale, fiecare leu donat poate face diferența între disperare și speranță pentru cineva. Consolidarea Comunității Donațiile noastre ajută la construirea și consolidarea comunității. Când susținem cauze caritabile, ne unim forțele cu ceilalți donatori și voluntari pentru a lupta împotriva inegalităților și pentru a crea o societate mai justă și mai compasivă. Educația pentru Generațiile Viitoare Donațiile în domeniul educațional asigură că generațiile viitoare vor avea resursele necesare pentru a învăța și a prospera. Educația este fundamentul pe care se construiește viitorul, iar sprijinul nostru poate deschide uși care altfel ar rămâne închise. Împlinirea Personală Donațiile nu sunt doar despre a da; sunt și despre a primi. Împlinirea personală și pacea interioară pe care o simțim atunci când ajutăm pe alții sunt neprețuite. Este o dovadă că, indiferent de dificultățile proprii, putem face o diferență pozitivă în lume. Influența Pozitivă Prin exemplul nostru, îi inspirăm și pe alții să fie generoși și să se implice în acte de caritate. Generozitatea este contagioasă, și atunci când ne arătăm susținerea pentru cauzele caritabile, îi motivăm pe cei din jur să facă același lucru. În concluzie, donațiile de caritate sunt mult mai mult decât un simplu transfer de resurse financiare. Ele sunt expresia noastră de solidaritate și empatie față de cei care au nevoie. Fiecare contribuție, indiferent de mărime, contează și are puterea de a transforma vieți. Așadar, să ne deschidem inimile și să fim generoși. Fiecare gest de caritate este o sămânță de bine plantată pentru un viitor mai luminos.",
+        "TAG": "Caritate"
+      },
+      "2": {
+        "TITLE": "Importanța Menținerii Sănătății Mintale și a Bunăstării",
+        "DESCRIPTION": "În vremurile agitate de astăzi, sănătatea mintală a devenit un subiect crucial în discuțiile despre bunăstare. Menținerea sănătății mintale nu este doar despre a preveni sau trata condiții specifice, ci este despre crearea unui echilibru în viața noastră zilnică care să ne permită să ne realizăm potențialul și să facem față stresului cotidian. Sănătatea mintală influențează modul în care gândim, simțim și acționăm. Prin urmare, este esențial să ne acordăm timp pentru auto-îngrijire și să căutăm sprijin atunci când este necesar. Crearea unui mediu susținător în jurul nostru, unde dialogul deschis despre emoții și luptele interioare este încurajat, poate avea un impact semnificativ asupra stării noastre de bine. Activități precum meditația, exercițiile fizice și hobby-urile creative pot contribui la îmbunătățirea sănătății mintale. De asemenea, este important să recunoaștem că solicitarea de ajutor profesional este un semn de forță, nu de slăbiciune. În final, sănătatea mintală nu este o destinație, ci un proces continuu de creștere și adaptare, și fiecare pas pe care îl facem pentru a ne îngriji mintea este un pas către o viață mai împlinită și mai fericită.",
+        "TAG": "Caritate"
+      },
+      "3": {
+        "TITLE": "",
+        "DESCRIPTION": "",
+        "TAG": ""
+      },
+      "4": {
+        "TITLE": "",
+        "DESCRIPTION": "",
+        "TAG": ""
+      }
+    }
+  },
+
+  "CONTACT": {
+    "TITLE": "Contact",
+    "DESCRIPTION": "Contact us for any questions or suggestions.",
+    "FORM": {
+      "TITLE": "Contactează-ne",
+      "DISCLAIMER": "Vă rugăm să sunați inainte de a veni la sediul nostru. Vă mulțumim!",
+      "NAME": "Nume",
+      "EMAIL": "Email",
+      "PHONE": "Telefon",
+      "ADDRESS": "Adresa",
+      "WORKING_HOURS": "Ore lucru",
+      "YOUR_MESSAGE": "Mesajul tău",
+      "SEND": "Trimite",
+      "SUCCESS": "Mesajul tău a fost trimis cu succes!",
+      "ERROR": "A apărut o eroare. Te rugăm să încerci din nou."
+    }
+  },
+  
+  "HEADER": {
+    "HOME": { "LABEL": "Acasă", "LINK": "/" },
+    "PROJECTS": { "LABEL": "Proiecte", "LINK": "/projects" },
+    "ABOUT": { "LABEL": "Despre", "LINK": "/about" },
+    "GALLERY": { "LABEL": "Galerie", "LINK": "/gallery"},
+    "BLOG": { "LABEL": "Blog", "LINK": "/blog" },
+    "CONTACT": { "LABEL": "Contact", "LINK": "/contact" }
+  }
+}

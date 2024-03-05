@@ -1,0 +1,251 @@
+{
+  "COMMON": 
+  {
+    "DONATE": "Donate",
+    "DONATE_NOW": "Donate Now",
+    "ASSOCIATION": "Bucurie în Dar (Gift of Joy)",
+    "ASSOCIATION_FULL": "Bucurie în Dar (Gift of Joy) Association",
+    "NECESSARY_AMOUNT": "Necessary amount"
+  },
+  
+  "HOME_HERO":
+  {
+    "MOTTO_FIRST_PART": "From this world we leave only with",
+    "MOTTO_SECOND_PART": "our deeds",
+    "DESCRIPTION": "We are support, with all our might, for those who have no one else to lean on. Our mission is to bring joy to the hearts of as many people as possible, both young and old, together with you."
+  },
+  
+  "HOME_ACTIVITY": {
+    "TITLE": "Our Activity",
+    "DESCRIPTION": "This is the help you have given, through us, from the beginning of the Bucurie în Dar (Gift of Joy) Association. We are people who enjoy living also for others, rational people, with feelings and wishes. And our greatest wish is to not live only for ourselves.",
+    "ACTIVITIES": {
+      "FIRST": {
+        "TITLE": "Something1",
+        "DESCRIPTION": "First description will be here."
+      },
+      "SECOND": {
+        "TITLE": "Something2",
+        "DESCRIPTION": "Second description will be here."
+      },
+      "THIRD": {
+        "TITLE": "Something3",
+        "DESCRIPTION": "Third description will be here."
+      },
+      "FOURTH": {
+        "TITLE": "Something4",
+        "DESCRIPTION": "Fourth description will be here."
+      }
+    }
+  },
+  
+  "SAINT_JOHN": {
+    "TITLE": "Saint John The Merciful Center",
+    "DESCRIPTION": "Together we save lives, change destinies, heal souls. Each of us has gone through a dark period at least once in our life from which we no longer knew how to get out or when it would end. We saw our family, friends, loved ones in our lives suffering and we had no way to help them. How much help is given with empathy, with affection and love. In those moments you need support and I strongly believe that the team of the St. John The Merciful Center will strive to bring relief, healing and be a support to those who will tell us, help us.",
+    "IMAGE_ALT": "Icon of Saint John the Merciful Center"
+  },
+  
+  "HOME_POTENTIAL": {
+    "TITLE": "Children's potential",
+    "DESCRIPTION": "Your donation to our cause can create a brighter future, providing essential education, health, and nourishment to children in need. Each contribution brings hope and opens doors to a universe of possibilities. Let's build a brighter future together. Donate now and make a difference! Your support is vital in our mission to unlock a child's potential. With every donation, we can offer more than just basic needs; we provide a foundation for lifelong learning and growth. Our programs focus on education, healthcare, and empowering communities to uplift their youngest members.",
+    "IMAGE_ALT": "Portrait of a child"
+  },
+
+  "HOME_HELP": {
+    "BADGE": "HELP DIFFERENTLY",
+    "TITLE": "Other ways to help",
+    "DESCRIPTION": "There are many ways you can help, not only by donating. Every gesture matters. Here are a few of the ways you contribute.",
+    "FIRST": {
+      "TITLE": "Material goods",
+      "DESCRIPTION": "Donate clothes, toys, books, furniture, hygiene items, or other material goods that you no longer use."
+    },
+    "SECOND": {
+      "TITLE": "Forms",
+      "DESCRIPTION": "Form 220, sponsorship contract, etc."
+    },
+    "THIRD": {
+      "TITLE": "Volunteering",
+      "DESCRIPTION": "We are always looking for volunteers to help us. We'll help you find a way to volunteer that best suits you."
+    }
+  },
+
+  "HOME_BLOG": {
+    "TITLE": "Blog",
+    "DESCRIPTION": "Here you can find some articles about various topics. We hope you will find them interesting and useful."
+  },
+  
+  "OUR_TEAM": {
+    "TITLE": "Our Team",
+    "DESCRIPTION": "Meet our team! We are passionate people when it comes to our work and we wish to bring a positive impact in the world.",
+    "TEAM_MEMBERS": {
+      "FIRST": { "NAME": "Alexandru Ionescu", "ROLE": "President" },
+        "SECOND": { "NAME": "Andreea Constantinescu", "ROLE": "VP & Marketing coordinator" },
+        "THIRD": { "NAME": "Cioltan Marius", "ROLE": "VP & Logistics coordinator" },
+        "FOURTH": { "NAME": "Teodor Nemțeanu", "ROLE": "Principal coordinator of emergency stuations" },
+        "FIFTH": { "NAME": "Alina Cernea", "ROLE": "Assistant & Principal coordinator" },
+        "SIXTH": { "NAME": "Cristian Simionescu", "ROLE": "Communications & Public relations specialist" },
+        "SEVENTH": { "NAME": "Evelin", "ROLE": "Principal social assistant" },
+        "EIGHTH": { "NAME": "Ovidiu Horațiu", "ROLE": "Doctor architect" }
+    }
+  },
+  
+  "FAQ": {
+    "TITLE": "FAQ",
+    "QUESTIONS": {
+      "FIRST": {
+        "QUESTION": "First question?",
+        "ANSWER": "First answer."
+      },
+      "SECOND": {
+        "QUESTION": "Second question?",
+        "ANSWER": "Second answer."
+      },
+      "THIRD": {
+        "QUESTION": "Third question?",
+        "ANSWER": "Third answer."
+      },
+      "FOURTH": {
+        "QUESTION": "Fourth question?",
+        "ANSWER": "Fourth answer."
+      }
+    }
+  },
+
+  "PROJECTS": {
+    "TITLE": "Projects",
+    "DESCRIPTION": "Discover some of our projects and find out how you can help those who need you.",
+    "TABLE_OF_JOY": {
+      "TITLE": "Meals of joy",
+      "DESCRIPTION": "Have you ever been in a situation where you had nothing to eat, for at least a day? Through this program, 'Meals of Joy', we offer food to thousands of people. You too can offer a meal to a needy person and in return, you will receive the most sincere THANK YOU of your life. Who do we help? Families with many children, people without income, widowed women, sick individuals raising their children alone, people with mobility issues, both adults and children, socially assisted children, lonely elderly, homeless people. They fast even when it is not the fasting season."
+    },
+    "LOVE_AND_MEDICINE": {
+      "TITLE": "Love & medicine",
+      "DESCRIPTION": "Do you wish to be friends? These children are nourished by our love and live with medication. What needs do these children have? Some need treatment, others prostheses, others a wheelchair or surgery. Help them to no longer need treatment and to remain with just the love and joy of having healed with the help you provided. NOTE - The money obtained from donations will be redirected to the account of the hospital or clinic, and posting of related bills/costs."
+    },
+    "SCHOOL_OF_JOY": {
+      "TITLE": "School of joy",
+      "DESCRIPTION": "The children we help today are the educated adults of tomorrow. Education is fundamental. By supporting these children's access to education, you are also helping the community and the contribution they will in turn make to the community and this country. With your help, these children will discover the world, a world different from the one they live in now. Through them, you will also find joy! Also, we all know that the phenomenon of bullying has escalated in Romania, and many children are victims. We believe it is easier to prevent than to fight a phenomenon and that together we can help the little ones have healthy relationships with their peers. We share with you the 'School of Joy' workshop project, which starts with a story – 'The Hedgehog's Heart. An Adventure in Search of True Friends' (author: Mariana Buric). The workshop includes games and activities that can be done with children by teachers, in kindergartens and schools, but also by parents, at home. We would be delighted if among you there are teachers and parents who want to join us in this project. Let's help the little ones enjoy going to kindergarten or school and enjoy the friendship of their peers. For project details, please contact us. Thank you!"
+    },
+    "CAMPS_TRIPS_WORKSHOPS": {
+      "TITLE": "Camps, trips & workshops",
+      "DESCRIPTION": "We have a very beautiful country and it would be wonderful for these children to get to know their own country and enjoy its beauties."
+    },
+    "ADOPT_A_FAMILY": {
+      "TITLE": "Adopt a family",
+      "DESCRIPTION": "Help at least one of our small and large friends, young or old. Dear people, you have the opportunity to adopt a family to take care of, helping them in their needs and helplessness. Any help, no matter how small, is welcome. Call us to provide you with their contact details. Ensure what you can from the needs of a disadvantaged family: a medicine or a box of milk powder, basic food items, a notebook or a pencil for a student, are things that, unfortunately, some cannot afford on a constant basis. We make the cases known to you, and you choose the family you wish to visit and help in the medium or long term."
+    },
+    "HELP_A_COMMUNITY": {
+      "TITLE": "Help a community",
+      "DESCRIPTION": "We are involved in helping many communities, our friends we now say with joy, are hundreds of families, wonderful people, and many beautiful children. Whatever good thing you have to offer, such as food, medicine (cough syrups, fever reducers, diapers, etc.), footwear, clothing, personal hygiene and intimate hygiene products, toys, appliances, furniture, and other goods, we await you every day at the two collection points located at the following addresses: Supermarket La Cocoș, inside the store. Address Sos. Vitan Bârzești 7A. Hours Monday - Saturday 07:30 – 20:30, Sunday 07:30 – 18:30. Or Str. Poteraș nr. 14, between 09:00 – 16:00. For larger quantities of products and goods, please contact us by phone."
+    }
+  },
+
+  "PROJECTS_MORE": {
+    "DONATE": "Donate",
+    "CARD_OPTION": "Card / Google Pay / Apple Pay",
+    "BANK_TRANSFER_OPTION": "Bank transfer",
+    "DESIRED_AMOUNT": "Desired amount",
+    "CONTINUE": "Continue",
+    "DONATE_FOR": "Donate for"
+  },
+  
+  "SHARE": {
+    "MAIN": "Help by sharing!"
+  },
+
+  "ABOUT": {
+    "TITLE": "About us",
+    "DESCRIPTION": "Who we are, what we do, and why we do it.",
+    "WHO_ARE_WE": {
+      "TITLE": "Who are we?",
+      "DESCRIPTION": "We are volunteers who, after several years of humanitarian activities, founded the Bucurie în Dar (Gift of Joy) Association to help on a larger scale. We are people who live for others, not just for ourselves. With the help of The Good Lord and with your support, in a joint work, we want to bring joy to the hearts of many people, big and small, young and old. We have the freedom to choose what we do in this life, and we chose to help, and we do it with all the joy and love. Give joy too, together with us."
+    },
+    "WHAT_WE_DO": {
+      "TITLE": "What we do",
+      "DESCRIPTION": "We listen to the life stories of those who are less important to a part of society. We are support, with everything in our power, for those who have no one left to lean on. We help those who shout: help us! Choose to help with us! It's that simple. Just choose."
+    },
+    "WHY_WE_HELP": {
+      "TITLE": "Why we help",
+      "DESCRIPTION": "Because we have the power to choose what we do with our time, with our lives. The legacy we leave to our children are our deeds, which they also pass on. Dear people, from this life, we only leave with our deeds. You who come and help, sacrifice your time, your comfort and your money for people you don't know. You chose to give your life to your neighbor. This is the gift and it comes from love."
+    }
+  },
+  
+  "GALLERY": {
+    "TITLE": "Our work",
+    "DESCRIPTION": "Gallery with photos and videos of our work.",
+    "VIDEOS": {
+      "1": { "DESCRIPTION": "Video - Report, The Universe of Faith" },
+      "2": { "DESCRIPTION": "Video - Founder" }
+    },
+    "PHOTOS": {
+      "1": { "DESCRIPTION": "God works through people, through all of you who contributed to the happiness of these children." },
+      "2": { "DESCRIPTION": "We thank Mrs. Monica and Amprenta Association for giving us their trust and help, and so we have managed to support at least 300 children." },
+      "3": { "DESCRIPTION": "We thought to surprise the children from Budești Commune by giving them 30 hoodies to use at training. But their surprise was much bigger than ours. We caught the girls preparing martisoare for us." },
+      "4": { "DESCRIPTION": "We announce that this year, with God's help and yours, we managed to send 16 children to the sea! Many thanks to the hosts at CASA DEXTER, Vali and Cami, for taking care of the children!" },
+      "5": { "DESCRIPTION": "Thank you to the Medicover Association for the donated hygiene products!" },
+      "6": { "DESCRIPTION": "We thank you for your involvement and care!" },
+      "7": { "DESCRIPTION": "In recent years, together with you, we have come to the aid of many people, families, children, homeless people, I don't think we missed anyone, we helped unreservedly, unconditionally, and we continue to do so." },
+      "8" : { "DESCRIPTION": "The children helped today are tomorrow's educated adults. Education is fundamental. And by supporting and providing these children with access to education, you are helping the community, as well as the contribution they will in turn make to the community and this country." },
+      "9": { "DESCRIPTION": "Thank you for your involvement in the JOY MEAL project 🌺 It's so easy to help others through us!" },
+      "10": { "DESCRIPTION": "Today we were in the village of Podul Pitarului, Călărași County. We thank Gina for her involvement and care for the families in the community!" },
+      "11": { "DESCRIPTION": "The Supermarket La Cocoș 🐓 has offered us another collection space 🎉. It is intended only for donations consisting of clothing, footwear, toys, hygiene products." },
+      "12": { "DESCRIPTION": "Let's not forget the sick and lonely, and the children hospitalized." },
+      "13": { "DESCRIPTION": "Enjoy the children's footwear and thank you to the donors. 🙋🏻🙋‍♀️Or as my mom says when I buy footwear 'Honey, wear them out healthily'." },
+      "14": { "DESCRIPTION": "...❤️" }
+    }
+  },
+
+  "BLOG": {
+    "TITLE": "Our articles",
+    "DESCRIPTION": "Our blog articles.",
+    "READ_ARTICLE": "Read article",
+    "ARTICLES": {
+      "1": {
+        "TITLE": "The Importance of Charitable Donations",
+        "DESCRIPTION": "In a world full of uncertainty and challenges, acts of charity shine like beacons of hope and humanity. Charity is not just a gesture of compassion; it is a bridge that connects souls, offering those less fortunate a chance at a better life. Charitable donations are vital for supporting this noble cause, and here's why. Direct Impact on People's Lives Through donations made to charitable organizations, we contribute directly to improving the lives of those in need. Whether it's food, shelter, education, or access to medical services, every donated dollar can make the difference between despair and hope for someone. Strengthening the Community Our donations help build and strengthen the community. When we support charitable causes, we join forces with other donors and volunteers to fight against inequalities and to create a fairer and more compassionate society. Education for Future Generations Donations in the field of education ensure that future generations will have the necessary resources to learn and thrive. Education is the foundation upon which the future is built, and our support can open doors that would otherwise remain closed. Personal Fulfillment Donations are not just about giving; they're also about receiving. The personal fulfillment and inner peace we feel when helping others are priceless. It's proof that, regardless of our own difficulties, we can make a positive difference in the world. Positive Influence Through our example, we inspire others to be generous and to engage in acts of charity. Generosity is contagious, and when we show our support for charitable causes, we motivate those around us to do the same. In conclusion, charitable donations are much more than a simple transfer of financial resources. They are our expression of solidarity and empathy towards those in need. Every contribution, no matter its size, matters and has the power to transform lives. So, let's open our hearts and be generous. Every act of charity is a seed of goodness planted for a brighter future.",
+        "TAG": "Charity"
+      },
+      "2": {
+        "TITLE": "The Importance of Mental Health and Well-Being",
+        "DESCRIPTION": "In today's tumultuous times, mental health has become a crucial topic in discussions about well-being. Maintaining mental health is not just about preventing or treating specific conditions, but it's about creating a balance in our daily lives that allows us to realize our potential and cope with everyday stress. Mental health influences the way we think, feel, and act. Therefore, it is essential to take time for self-care and to seek support when necessary. Creating a supportive environment around us, where open dialogue about emotions and internal struggles is encouraged, can have a significant impact on our well-being. Activities such as meditation, physical exercises, and creative hobbies can contribute to improving mental health. It's also important to recognize that seeking professional help is a sign of strength, not weakness. In the end, mental health is not a destination but a continuous process of growth and adaptation, and every step we take to care for our minds is a step towards a more fulfilled and happier life.",
+        "TAG": "Charity"
+      },
+      "3": {
+        "TITLE": "",
+        "DESCRIPTION": "",
+        "TAG": ""
+      },
+      "4": {
+        "TITLE": "",
+        "DESCRIPTION": "",
+        "TAG": ""
+      }
+    }
+  },
+  
+  "CONTACT": {
+    "TITLE": "Contact",
+    "DESCRIPTION": "Contact us for any questions or suggestions.",
+    "FORM": {
+      "TITLE": "Contact us!",
+      "DISCLAIMER": "Please call before visiting us. Thank you!",
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "PHONE": "Phone",
+      "ADDRESS": "Address",
+      "WORKING_HOURS": "Working hours",
+      "YOUR_MESSAGE": "Your message",
+      "SEND": "Send",
+      "SUCCESS": "Your message has been sent successfully!",
+      "ERROR": "An error occurred while sending your message. Please try again later."
+    }
+  },
+  
+  "HEADER": {
+    "HOME": { "LABEL": "Home", "LINK": "/en" },
+    "PROJECTS": { "LABEL": "Projects", "LINK": "/en/projects" },
+    "ABOUT": { "LABEL": "About", "LINK": "/en/about" },
+    "GALLERY": { "LABEL": "Gallery", "LINK": "/en/gallery" },
+    "BLOG": { "LABEL": "Blog", "LINK": "/en/blog" },
+    "CONTACT": { "LABEL": "Contact", "LINK": "/en/contact" }
+  }
+}
